@@ -1,4 +1,8 @@
-# Water Quality Assessment Using Big Data and Machine Learning
+# Author: Ashish Chokhani
+
+# Title: Water Quality Assessment Using Big Data and Machine Learning
+
+---
 
 ## Description
 
